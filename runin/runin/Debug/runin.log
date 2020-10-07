@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\97254\source\repos\runin\runin\Source.cpp(395): warning C4731: 'WinMain': frame pointer register 'ebp' modified by inline assembly code
+C:\Users\97254\source\repos\runin\runin\Source.cpp(404): warning C4731: 'WinMain': frame pointer register 'ebp' modified by inline assembly code
+  runin.vcxproj -> C:\Users\97254\source\repos\runin\Debug\runin.exe
